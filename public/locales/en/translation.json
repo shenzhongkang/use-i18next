@@ -1,0 +1,9 @@
+{
+  "love": "I Love You",
+  "btn": {
+    "en": "English",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "ko": "Korean"
+  }
+}
